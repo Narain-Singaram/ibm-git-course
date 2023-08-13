@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Simple Interest Calculator
+# Simple Interest Calculator (Narain Singaram)
 
 # Function to calculate simple interest
 calculate_simple_interest() {
